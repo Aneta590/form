@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "router",
+    "slug": "router",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "router"
+}
